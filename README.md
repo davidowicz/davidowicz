@@ -11,7 +11,6 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 - Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 
 ### 📌 Some interesting projects:
-[PINN applied to rlc circuit](https://github.com/davidowicz/PINN-applied-to-rlc-circuit)
 
 - [Estimating Clients' Needs using Machine Learning](https://github.com/teobucci/Estimating-Clients-Needs-using-Machine-Learning) : exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
 - [Statistical analysis on biomechanical parameters](https://github.com/teobucci/progetto-inferenza-statistica): linear regression for forecasting biomechanical parameters of the spine and ANOVA.
