@@ -16,7 +16,7 @@ My studies are focused on Machine Learning and Statistical Learning, leveraging 
 
 ### 📌 Some interesting projects:
 
-- [Estimating Clients' Needs using Machine Learning](https://github.com/teobucci/Estimating-Clients-Needs-using-Machine-Learning) : Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
+- [Estimating Clients' Needs using Machine Learning](https://github.com/teobucci/fintech) : Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
 - [Statistical analysis on biomechanical parameters](https://github.com/teobucci/progetto-inferenza-statistica): Linear regression for forecasting biomechanical parameters of the spine and ANOVA.
 - [Bayesian data analysis on driver's skills in MotoGP](https://github.com/DavideMichelon10/BDA-project): Hierarchical models on the influence that driver's ability and motorcycles quality have on the result of a race.
 - [Mixed and functional analysis models for studying Heart Failure (re)-hospitalizations](https://github.com/marcolucchini/Heart-Failure-re-hospitalizations): Advanced statistical models applied to patients with a heart failure desease.
